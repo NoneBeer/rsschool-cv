@@ -3,13 +3,13 @@
 ## Contacts
 
 * **Location**: Zelva, Belarus
-* **Phone number**: +375 44 5668773
+* **Phone number**: +375(44)5668773
 * **E-mail**: none.beer@mail.ru
 * **GitHub**: NoneBeer
 
 ## About Me
 
-I am 25 years old. I've been interested in programming since school. I want to learn Front-End Development.
+I am 25 years old. I've been interested in programming since school. I want to learn Front-End Development in RS School.
 
 ## Skills
 
@@ -25,6 +25,7 @@ I am 25 years old. I've been interested in programming since school. I want to l
 * Adobe Illustrator
 
 ## Code Example
+
 ```
 function sum(a, b) {
   return a + b;
@@ -35,7 +36,7 @@ console.log (result);
 
 ## Education
 
-BarSU
+Baranovichi State University
 
 ## Languages
 
