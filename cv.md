@@ -22,7 +22,7 @@ I am 25 years old. I've been interested in programming since school. I want to l
 * Premier
 * After Effects
 * MySQL Basic
-* Illustrator
+* Adobe Illustrator
 
 ## Code Example
 ```
